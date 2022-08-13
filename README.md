@@ -20,7 +20,7 @@ following these instructions.
 
 5. Copy the libraylib.a file from raylib/src into this project's lib folder
 
-6. You may delete the `_<file>_goes_here.txt files.
+6. You may delete the `_<file>_goes_here.txt` files.
 
 7. Run the application by pressing f5 on vs code or running mingw32-make on the
 project directory.
