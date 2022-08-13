@@ -1,0 +1,1 @@
+PLACE THE raylib.h IN THIS FOLDER (you can delete this file)
