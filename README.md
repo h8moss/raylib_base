@@ -14,7 +14,7 @@ following these instructions.
 2. Next, compile said repository by running mingw32-make on the src/ directory.
 (you will need to have mingw32 installed)
 
-3. Clone this project into your computer (and delete the .git folder)
+3. Fork and clone this repository into your computer
 
 4. Copy the raylib.h file from raylib/src into this project's include folder
 
